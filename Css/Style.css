@@ -1,0 +1,61 @@
+@font-face{
+    font-family: got;
+    src: url(../Font/got.ttf);
+}
+
+body {
+    background-image: url(Ice_lord.jpg);
+    background-size: 100%;
+    background-repeat: none;
+    background-attachment: fixed;
+}
+
+.loginsign li{
+    display: inline;;
+    padding: 10px;
+}
+.loginsign a{
+    background-color: #c0c0c0;
+    padding: 10px;
+    text-decoration: none;
+}
+.loginsign ul{
+    text-align: end;
+}
+
+
+
+.menu li {
+    display: inline;
+    padding: 30px;
+}
+.menu a{
+    background-color: #c0c0c0;
+    padding: 10px;
+    text-decoration: none;
+}
+.menu nav{
+    background-color: #6c9ed5;
+}
+.menu ul{
+    text-align: center;
+}
+
+
+
+
+
+#textstart p{
+    background-color: #6c9ed5;
+    border: 5px solid #000000;
+    margin: 60px;
+    padding: 10px;
+    font-family: got;
+}
+.menu{
+    margin-top: 50px;
+}
+h1{
+    font-family: got;
+}
+
